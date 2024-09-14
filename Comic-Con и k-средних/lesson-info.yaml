@@ -1,0 +1,9 @@
+type: framework
+content:
+  - Читаем изображение
+  - K-средних
+  - Построение
+  - Перерисовываем изображение
+  - Заключение
+is_template_based: false
+current_task: 0

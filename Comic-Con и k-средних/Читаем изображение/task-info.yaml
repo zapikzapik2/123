@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: superman-batman.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: tests/star.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/star.txt
+    visible: false
+    learner_created: false
+  - name: clustering.py
+    visible: false
+    learner_created: false
+  - name: distances.py
+    visible: false
+    learner_created: false
+  - name: plotting.py
+    visible: false
+    learner_created: false
+  - name: processing.py
+    visible: false
+    learner_created: false
+  - name: barchart.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: superman-batman-after.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScQIQGOPF_e3hQMM-nK5CEvJYufaCWpIbESFFSAOmkI55M_7Q/viewform?usp=pp_url&entry.2103429047=Comic-Con+%D0%B8+k+%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%85+/+%D0%A7%D0%B8%D1%82%D0%B0%D0%B5%D0%BC+%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5
+status: Unchecked
+record: -1

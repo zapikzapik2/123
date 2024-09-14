@@ -1,0 +1,9 @@
+type: framework
+content:
+  - Разбиение выборки
+  - k ближайших соседей
+  - Точность и Полнота
+  - Исключение по одному
+  - Заключение
+is_template_based: false
+current_task: 0

@@ -1,0 +1,11 @@
+type: framework
+content:
+  - Node
+  - Entropy
+  - Predicate
+  - Information Gain
+  - Decision Tree
+  - Predict
+  - Заключение
+is_template_based: false
+current_task: 0

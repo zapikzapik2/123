@@ -1,0 +1,43 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: halloween.csv
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: calculate_entropy.py
+    visible: true
+    learner_created: false
+  - name: divide.py
+    visible: true
+    learner_created: false
+  - name: tree.py
+    visible: true
+    learner_created: false
+  - name: halloween.py
+    visible: true
+    learner_created: false
+  - name: node.py
+    visible: true
+    learner_created: false
+  - name: RNA_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: boo.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: example_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScQIQGOPF_e3hQMM-nK5CEvJYufaCWpIbESFFSAOmkI55M_7Q/viewform?usp=pp_url&entry.2103429047=Horror+Trees+/+%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+status: Unchecked
+record: -1
+post_submission_on_open: true

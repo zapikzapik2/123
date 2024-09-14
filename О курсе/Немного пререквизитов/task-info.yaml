@@ -1,0 +1,12 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScQIQGOPF_e3hQMM-nK5CEvJYufaCWpIbESFFSAOmkI55M_7Q/viewform?usp=pp_url&entry.2103429047=%D0%9E+%D0%9A%D1%83%D1%80%D1%81%D0%B5+/+%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%9F%D1%80%D0%B5%D1%80%D0%B5%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%BE%D0%B2
+status: Solved
+record: -1
+post_submission_on_open: true

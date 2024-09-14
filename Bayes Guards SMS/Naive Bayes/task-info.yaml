@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: bayes.py
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: spam.txt
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: vectorize.py
+    visible: true
+    learner_created: false
+  - name: Thomas_Bayes.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScQIQGOPF_e3hQMM-nK5CEvJYufaCWpIbESFFSAOmkI55M_7Q/viewform?usp=pp_url&entry.2103429047=Bayes+Guards+SMS+/+Naive+Bayes
+status: Unchecked
+record: -1
